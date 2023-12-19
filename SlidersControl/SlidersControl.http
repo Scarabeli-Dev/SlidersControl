@@ -1,0 +1,6 @@
+@SlidersControl_HostAddress = http://localhost:5088
+
+GET {{SlidersControl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
